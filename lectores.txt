@@ -1,2 +1,3 @@
 en este archivo se guardaran los nombres de los lectores de la historia.
 primer lector Josue (creador)
+segundo lector Teofila (madre)
