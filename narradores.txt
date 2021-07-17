@@ -1,3 +1,12 @@
 en este archivo se colocaran todos los narradores de la historia de mi vida hasta la actualidad.
 primer narrador Josuea (autonarrador)
 lector 1
+lector 2
+lector 3
+lector 4
+lector 5
+lector 6
+lector 7
+lector 8
+lector 9 
+lector 10

@@ -2,3 +2,11 @@ esta seria una lista de todos los lectoras que hasta el momento han leido la his
 en este archivo se guardaran los nombres de los lectores de la historia.
 primer lector Josue (creador)
 segundo lector Teofila (madre)
+3 lector
+4 lector 
+5 lector 
+6 lector
+7 lector 
+8 lector 
+9 lector
+10 lector
