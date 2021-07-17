@@ -7,3 +7,6 @@ lector 4
 lector 5
 lector 6
 lector 7
+lector 8
+lector 9 
+lector 10
